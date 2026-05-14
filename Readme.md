@@ -37,4 +37,4 @@ Power BI Desktop, Microsoft Excel
 
 ## Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
